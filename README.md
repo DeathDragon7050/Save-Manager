@@ -3,7 +3,7 @@ Save Manager is a tool that lets you easily and quickly backup and load differen
 Note: This file used to be on nexus mods and has permanently been moved here
 
 ## Description
-Save Manager is a tool that lets you easily and quickly backup and load different characters and saves. Backing up works by going through your current saves folder and copying everything and putting it into a backup folder that is named after the character (and race if you so choose so). Loading works by allowing you to choose any one of your backups and copy pasting them into your current folder. The program will tell you exactly what it is going to do with everything so there is no chance that it will ruin any of your saves. It also does nothing in the background and only operates when you tell it to. I made it to be as clear as possible. Backing up and loading can take a while if you have a lot of save files.
+Save Manager is a tool that lets you easily and quickly backup and load different characters and saves from games. Backing up works by going through your current saves folder and copying everything and putting it into a backup folder that is named after the character (and a marker if you so choose so). Loading works by allowing you to choose any one of your backups and copy pasting them into your current folder. The program will tell you exactly what it is going to do with everything so there is no chance that it will ruin any of your saves. It also does nothing in the background and only operates when you tell it to. I made it to be as clear as possible. Backing up and loading can take a while if you have a lot of save files.
 
 **_PLEASE report any and all bugs and/or suggestions!_**
 
