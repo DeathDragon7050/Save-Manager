@@ -1,5 +1,4 @@
 # Save-Manager (v1.4)
-Save Manager is a tool that lets you easily and quickly backup and load different characters and saves. The program will tell you exactly what it is going to do with everything so there is no chance that it will ruin any of your saves. It also does nothing in the background and only operates when you tell it to. I made it to be as clear as possible
 Note: This file used to be on nexus mods and has permanently been moved here
 
 ## Description
@@ -8,8 +7,6 @@ Save Manager is a tool that lets you easily and quickly backup and load differen
 **_PLEASE report any and all bugs and/or suggestions!_**
 
 ## Installation
-With new versions you will need to run the html file provided to get the proper google drive link to the file
-Download the version of your choosing (There really is no reason to use an older version)
 Run the installer and install it in a folder wherever you want. (Something like C:\\Save Manager) Do not install in program files folder!
 Run the main file and configure settings - a configuration file will automatically be created
 
